@@ -1,1 +1,1 @@
-<img width="418" height="112" alt="image" src="https://github.com/user-attachments/assets/48ef347d-3c29-46af-a35c-fa218439c279" />
+![Screenshot](https://github.com/DNClub/Ultimate-Stealer-Collection/raw/refs/heads/main/ByteTools%20Token%20Stealer/screenshot.jpg)
